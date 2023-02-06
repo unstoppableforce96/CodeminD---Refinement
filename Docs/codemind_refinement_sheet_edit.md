@@ -13,7 +13,7 @@ Please follow the mentioned instructions while editing the excel sheet
 
 - Turn the cells *Program ID* and *Problem Name* to *green color* **after successful completion of the edit to the description part of the program**.
 <br>
-  ![Example]([1.jpg](https://github.com/unstoppableforce96/CodeminD---Refinement/blob/main/Docs/1.jpg))
+  ![Example](https://github.com/unstoppableforce96/CodeminD---Refinement/blob/main/Docs/1.jpg)
 
   **Note:** Refer the following document to edit the description part as per template.
 
