@@ -3,15 +3,17 @@
 Please follow the mentioned instructions while editing the excel sheet
 
 - Always make the edit as an outlook user. Not as a guest. Means, please make sure you logged in using your technicalhub mail to edit this sheet.
+
 <br> 
+
 - Search the problem you edited or wish to edit by the name of the problem.
-  **Note:** If you wish to change the name of the problem itself keep track of it's old name to search in this sheet. And also update the new name you given to the problem in *Problem Name* field.
+**Note:** If you wish to change the name of the problem itself keep track of it's old name to search in this sheet. And also update the new name you given to the problem in *Problem Name* field.
 
 <br>
 
 - Turn the cells *Program ID* and *Problem Name* to *green color* **after successful completion of the edit to the description part of the program**.
   [Example](1.jpg)
-  **Note:** Refer the following document to edit the description part as per template.
+**Note:** Refer the following document to edit the description part as per template.
 
 <br>
 
