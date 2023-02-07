@@ -17,7 +17,7 @@ Please follow the mentioned instructions while editing the excel sheet
 <br>
 
 - If you write a working code for the problem in any proramming language (C, C++, Java, Python). Make sure you add your employee ID and Name in the following manner
-**EmployeeID (Name)** as Author under appropriate field in the sheet. Also highlight the cell in green color to idenity that the code's been added recenly through refinement process.
+**EmployeeID (Name)** as Author under appropriate field in the sheet. Also highlight the cell in green color to identify that the code's been added recenly through refinement process.
   
   ![Check](2.jpg)  
   
