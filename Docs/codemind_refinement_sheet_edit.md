@@ -13,7 +13,6 @@ Please follow the mentioned instructions while editing the excel sheet
 
 - Turn the cells *Program ID* and *Problem Name* to *green color* **after successful completion of the edit to the description part of the program**.  
   ![Example](1.jpg)  
-  **Note:** Refer the following document to edit the description part as per template.
 
 <br>
 
@@ -27,4 +26,7 @@ Please follow the mentioned instructions while editing the excel sheet
 <br>
 
 - Finally insert the date under *Modified On* field and **EmployeeID (Name)** of you under the field *Modified By* on the date you modified the description of program.  
+  ![Example](3.jpg)  
+  Indicates that the program **Reverse String**'s Description is refined on *07-02-2023* by *B. Pavan*  
+  
   **Tip:** Just press Ctrl+; to insert current day's date in excel.
