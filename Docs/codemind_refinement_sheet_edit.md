@@ -19,10 +19,12 @@ Please follow the mentioned instructions while editing the excel sheet
 
 - If you write a working code for the problem in any proramming language (C, C++, Java, Python). Make sure you add your employee ID and Name in the following manner
 **EmployeeID (Name)** as Author under appropriate field in the sheet. Also highlight the cell in green color to idenity that the code's been added recenly through refinement process.
-  ![Indicates Code (In C Language) has been added through refinement by B. Pavan](2.jpg)  
+  
+  ![Check](2.jpg)  
+  
   *Indicates Code (In C Language) has been added through refinement by B. Pavan*
 
 <br>
 
-- Finally insert the date under *Modified On* field on the date you modified the description of program.  
+- Finally insert the date under *Modified On* field and **EmployeeID (Name)** of you under the field *Modified By* on the date you modified the description of program.  
   **Tip:** Just press Ctrl+; to insert current day's date in excel.
